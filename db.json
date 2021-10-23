@@ -66,6 +66,29 @@
               "value": "1"
             }
           ]
+        },
+        
+        {
+          "id": 3,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #3",
+          "background_color": "#ff00ff",
+          "animation_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
+          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "3"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "3"
+            }
+          ]
         }
    ]
 }
