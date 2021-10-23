@@ -112,6 +112,32 @@
               "value": "2"
             }
           ]
+        },
+        
+         {
+          "id": 5,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #5",
+          "background_color": "#ff00ff",
+          "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
+          "animation_url":"ipfs://QmdXoQ2R4TUcvaGtzNySsn8FqJiNqTC3S8uDSnUKXkNh5R?tokenId=0",
+          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "5"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "1"
+            }
+          ]
         }
+        
+        
    ]
 }
