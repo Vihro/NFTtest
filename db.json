@@ -20,6 +20,29 @@
               "value": "0"
             }
           ]
+        },
+        
+        {
+          "id": 1,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #0",
+          "background_color": "#ff00ff",
+          "image_data": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "animation_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn103.picsart.com%2F201609615002202.gif%3Fto%3Dmin%26r%3D1024&f=1&nofb=1",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "1"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "5"
+            }
+          ]
         }
    ]
 }
