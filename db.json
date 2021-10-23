@@ -1,4 +1,4 @@
-{
+/*{
     "tokens": [
         {
           "id": 0,
@@ -29,4 +29,32 @@
           "name": "Kingsworld 4"
         }
     ]
+}+/
+
+
+
+{
+    "tokens": [
+{
+  "id": 0,
+  "description": "Dieser Vertrag regeld etwas.",
+  "name": "Königsvertrag #0",
+  "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+  "animation_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn140.picsart.com%2F295862319115201.gif&f=1&nofb=1",
+  "attributes": [
+    {
+      "trait_type": "Vertrag",
+      "value": "Standart"
+    },
+    {
+      "trait_type": "Erweiterung",
+      "value": "0"
+    },
+    {
+      "trait_type": "Ergänzung",
+      "value": "0"
+    }
+  ]
+}
+            ]
 }
