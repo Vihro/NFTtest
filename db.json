@@ -6,6 +6,20 @@
           "external_url": "https://",
           "image": "https://twemoji.maxcdn.com/svg/1f194.svg",
           "name": "CoolNFT 0"
+        },
+        {
+          "id": 1,
+          "description": "CoolNFT",
+          "external_url": "https://",
+          "image": "https://twemoji.maxcdn.com/svg/1f199.svg",
+          "name": "CoolNFT 1"
+        },
+        {
+          "id": 2,
+          "description": "CoolNFT",
+          "external_url": "https://",
+          "image": "https://twemoji.maxcdn.com/svg/1f1e6-1f1ee.svg",
+          "name": "CoolNFT 2"
         }
     ]
 }
