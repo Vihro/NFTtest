@@ -1,126 +1,15 @@
 {
     "tokens": [
-        {
-          "id": 0,
-          "description": "Dieser Vertrag regeld etwas.",
-          "name": "Königsvertrag #0",
-          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
-          "animation_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn140.picsart.com%2F295862319115201.gif&f=1&nofb=1",
-          "attributes": [
-            {
-              "trait_type": "Vertrag",
-              "value": "Standart"
-            },
-            {
-              "trait_type": "Erweiterung",
-              "value": "0"
-            },
-            {
-              "trait_type": "Ergänzung",
-              "value": "0"
-            }
-          ]
-        },
-        
-        {
-          "id": 1,
-          "description": "Dieser Vertrag regeld etwas.",
-          "name": "Königsvertrag #1",
-          "background_color": "#ff00ff",
-          "image_data": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
-          "animation_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn103.picsart.com%2F201609615002202.gif%3Fto%3Dmin%26r%3D1024&f=1&nofb=1",
-          "attributes": [
-            {
-              "trait_type": "Vertrag",
-              "value": "Standart"
-            },
-            {
-              "trait_type": "Erweiterung",
-              "value": "1"
-            },
-            {
-              "trait_type": "Ergänzung",
-              "value": "5"
-            }
-          ]
-        },
-        
-        {
-          "id": 2,
-          "description": "Dieser Vertrag regeld etwas.",
-          "name": "Königsvertrag #2",
-          "background_color": "#ff00ff",
-          "animation_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn103.picsart.com%2F201609615002202.gif%3Fto%3Dmin%26r%3D1024&f=1&nofb=1",
-          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
-          "attributes": [
-            {
-              "trait_type": "Vertrag",
-              "value": "Standart"
-            },
-            {
-              "trait_type": "Erweiterung",
-              "value": "2"
-            },
-            {
-              "trait_type": "Ergänzung",
-              "value": "1"
-            }
-          ]
-        },
-        
-        {
-          "id": 3,
-          "description": "Dieser Vertrag regeld etwas.",
-          "name": "Königsvertrag #3",
-          "background_color": "#ff00ff",
-          "animation_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
-          "attributes": [
-            {
-              "trait_type": "Vertrag",
-              "value": "Standart"
-            },
-            {
-              "trait_type": "Erweiterung",
-              "value": "3"
-            },
-            {
-              "trait_type": "Ergänzung",
-              "value": "3"
-            }
-          ]
-        },
-        
-        {
-          "id": 4,
-          "description": "Dieser Vertrag regeld etwas.",
-          "name": "Königsvertrag #4",
-          "background_color": "#ff00ff",
-          "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
-          "attributes": [
-            {
-              "trait_type": "Vertrag",
-              "value": "Standart"
-            },
-            {
-              "trait_type": "Erweiterung",
-              "value": "4"
-            },
-            {
-              "trait_type": "Ergänzung",
-              "value": "2"
-            }
-          ]
-        },
+    
+                
         
          {
-          "id": 5,
+          "id": 0,
           "description": "Dieser Vertrag regeld etwas.",
-          "name": "Königsvertrag #5",
+          "name": "Neuervertrag #0",
           "background_color": "#ff00ff",
           "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-          "animation_url":"ipfs://QmdXoQ2R4TUcvaGtzNySsn8FqJiNqTC3S8uDSnUKXkNh5R?tokenId=0",
+          "animation_url":"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn140.picsart.com%2F295862319115201.gif&f=1&nofb=1",
           "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
           "attributes": [
             {
