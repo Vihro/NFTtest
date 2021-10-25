@@ -2,10 +2,12 @@
      "tokens": [
          {
            "id": 0,
-           "description": "Dieser Vertrag regeld etwas.",
-           "name": "Königsvertrag #0",
-           "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
-           "animation_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn140.picsart.com%2F295862319115201.gif&f=1&nofb=1",
+           "description": "Dieser Vertrag regeld etwas 1.",
+           "name": "Ganz Neuervertrag #1",
+           "background_color": "#ff00ff",
+           "image": "https://ipfs.io/ipfs/QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ?filename=bild01.jpeg",
+           "external_url": "https://ipfs.io/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse?filename=pdf01.pdf",
+           "animation_url":"https://ipfs.io/ipfs/QmZJQrchqpUDUWi6QJqySvYecFVN6x5TEKME4D7n65NYnK?filename=html01.html",
            "attributes": [
              {
                "trait_type": "Vertrag",
