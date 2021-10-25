@@ -24,17 +24,12 @@
            ]
          }
           
-              ]
- }
-          
-          
-          {
-     "tokens": [
+
           
           {
            "id": 1,
            "description": "Dieser Vertrag regeld etwas.",
-           "name": "Ganz Neuervertrag #0",
+           "name": "Ganz Neuervertrag #1",
            "background_color": "#ff00ff",
            "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
            "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
