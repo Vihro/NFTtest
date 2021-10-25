@@ -1,12 +1,14 @@
+
 {
   "tokens": [
     {
       "id": 0,
+      "description": "Dieser Vertrag regeld etwas.",
+      "name": "Ganz Neuervertrag #1",
       "background_color": "#ff00ff",
-      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-      "external_url": "https://openseacreatures.io/3", 
-      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-      "name": "Dave Starbelly",
+      "image": "https://ipfs.io/ipfs/QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ?filename=bild01.jpeg",
+      "external_url": "https://ipfs.io/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse?filename=pdf01.pdf",
+      "animation_url": "https://ipfs.io/ipfs/QmZJQrchqpUDUWi6QJqySvYecFVN6x5TEKME4D7n65NYnK?filename=html01.html",
       "attributes": [
         {
           "trait_type": "Vertrag",
