@@ -1,12 +1,28 @@
+
+
 {
   "tokens": [
     {
       "id": 0,
+      "background_color": "#ff00ff",
       "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
       "external_url": "https://openseacreatures.io/3", 
       "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
       "name": "Dave Starbelly",
-
+      "attributes": [
+        {
+          "trait_type": "Vertrag",
+          "value": "Standart"
+        },
+        {
+          "trait_type": "Erweiterung",
+          "value": "0"
+        },
+        {
+          "trait_type": "Ergänzung",
+          "value": "0"
+        }
+      ]
     }
   ]
 }
