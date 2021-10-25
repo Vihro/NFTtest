@@ -8,9 +8,9 @@
           "description": "Dieser Vertrag regeld etwas.",
           "name": "Ganz Neuervertrag #0",
           "background_color": "#ff00ff",
+          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
           "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
           "animation_url":"http://www.kevs3d.co.uk/dev/js1kspring/",
-          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
           "attributes": [
             {
               "trait_type": "Vertrag",
