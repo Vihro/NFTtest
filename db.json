@@ -119,6 +119,30 @@
                     "value": "0"
                 }
             ]
+        },
+        
+        {
+            "id": 5,
+            "description": "Dieser Vertrag regeld etwas.",
+            "name": "Ganz Neuervertrag #0",
+            "background_color": "#ff00ff",
+            "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
+            "animation_url": "https://lh3.googleusercontent.com/td6s9xNa-nq8wQZT3GxovsOPLHIaLsrv7nr54jNUXKejDQQhTiLEGbTRSD1l7AbUaTsi-VpYCfG8-H_mf1sgcbf0OX1AHcEpUcuw8Q=s0",
+            "image": "https://twemoji.maxcdn.com/svg/1f198.svg",
+            "attributes": [
+                {
+                    "trait_type": "Vertrag",
+                    "value": "Standart"
+                },
+                {
+                    "trait_type": "Erweiterung",
+                    "value": "0"
+                },
+                {
+                    "trait_type": "Ergänzung",
+                    "value": "0"
+                }
+            ]
         }
     ]
 }
