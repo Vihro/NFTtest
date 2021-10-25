@@ -5,9 +5,9 @@
       "description": "Dieser Vertrag regeld etwas.",
       "name": "Ganz Neuervertrag #1",
       "background_color": "#ff00ff",
-      "image": "https://ipfs.io/ipfs/QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ?filename=bild01.jpeg",
-      "external_url": "https://ipfs.io/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse?filename=pdf01.pdf",
-      "animation_url": "https://ipfs.io/ipfs/QmZJQrchqpUDUWi6QJqySvYecFVN6x5TEKME4D7n65NYnK?filename=html01.html",
+      "image": "https://ipfs.io/ipfs/QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ",
+      "external_url": "https://ipfs.io/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
+      "animation_url": "https://ipfs.io/ipfs/QmZJQrchqpUDUWi6QJqySvYecFVN6x5TEKME4D7n65NYnK",
       "attributes": [
         {
           "trait_type": "Vertrag",
