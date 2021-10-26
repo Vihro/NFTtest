@@ -18,6 +18,9 @@
                 ...
     }
             "attributes": [
+             {
+    "value": "Happy"
+  }
                 {
                   "trait_type": "Base", 
                   "value": "Starfish"
