@@ -1,148 +1,210 @@
-
 {
     "tokens": [
         {
-            "id": 0,
-            "description": "Dieser Vertrag regeld etwas.",
-            "name": "Ganz Neuervertrag #0",
-            "background_color": "#ff00ff",
-            "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-            "animation_url": "http://www.kevs3d.co.uk/dev/js1kspring/",
-            "image": "https://twemoji.maxcdn.com/svg/1f198.svg",
-            "attributes": [
-                {
-                    "trait_type": "Vertrag",
-                    "value": "Standart"
-                },
-                {
-                    "trait_type": "Erweiterung",
-                    "value": "0"
-                },
-                {
-                    "trait_type": "Ergänzung",
-                    "value": "0"
-                }
-            ]
+          "id": 0,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #0",
+          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "animation_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn140.picsart.com%2F295862319115201.gif&f=1&nofb=1",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "0"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "0"
+            }
+          ]
         },
         
         {
-            "id": 1,
-            "description": "Dieser Vertrag regeld etwas.",
-            "name": "Ganz Neuervertrag #0",
-            "background_color": "#ff00ff",
-            "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-            "animation_url": "http://www.kevs3d.co.uk/dev/js1kspring/",
-            "image": "https://twemoji.maxcdn.com/svg/1f198.svg",
-            "attributes": [
-                {
-                    "trait_type": "Vertrag",
-                    "value": "Standart"
-                },
-                {
-                    "trait_type": "Erweiterung",
-                    "value": "0"
-                },
-                {
-                    "trait_type": "Ergänzung",
-                    "value": "0"
-                }
-            ]
+          "id": 1,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #1",
+          "background_color": "#ff00ff",
+          "image_data": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "animation_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn103.picsart.com%2F201609615002202.gif%3Fto%3Dmin%26r%3D1024&f=1&nofb=1",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "1"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "5"
+            }
+          ]
         },
         
         {
-            "id": 2,
-            "description": "Dieser Vertrag regeld etwas.",
-            "name": "Ganz Neuervertrag #0",
-            "background_color": "#ff00ff",
-            "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-            "animation_url": "http://www.kevs3d.co.uk/dev/js1kspring/",
-            "image": "https://twemoji.maxcdn.com/svg/1f198.svg",
-            "attributes": [
-                {
-                    "trait_type": "Vertrag",
-                    "value": "Standart"
-                },
-                {
-                    "trait_type": "Erweiterung",
-                    "value": "0"
-                },
-                {
-                    "trait_type": "Ergänzung",
-                    "value": "0"
-                }
-            ]
+          "id": 2,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #2",
+          "background_color": "#ff00ff",
+          "animation_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn103.picsart.com%2F201609615002202.gif%3Fto%3Dmin%26r%3D1024&f=1&nofb=1",
+          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "2"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "1"
+            }
+          ]
         },
         
         {
-            "id": 3,
-            "description": "Dieser Vertrag regeld etwas.",
-            "name": "Ganz Neuervertrag #0",
-            "background_color": "#ff00ff",
-            "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-            "animation_url": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.anorak.co.uk%2Fwp-content%2Fuploads%2F2015%2F10%2Fsholim-animated-gif-8.gif&f=1&nofb=1",
-            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.allmystery.de%2Fi%2Ftpy6l2jgoetxr_1a4ca34e502bc94c53bfac867b926838.gif&f=1&nofb=1",
-            "attributes": [
-                {
-                    "trait_type": "Vertrag",
-                    "value": "Standart"
-                },
-                {
-                    "trait_type": "Erweiterung",
-                    "value": "0"
-                },
-                {
-                    "trait_type": "Ergänzung",
-                    "value": "0"
-                }
-            ]
+          "id": 3,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #3",
+          "background_color": "#ff00ff",
+          "animation_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
+          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "3"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "3"
+            }
+          ]
         },
         
         {
-            "id": 4,
-            "description": "Dieser Vertrag regeld etwas.",
-            "name": "Ganz Neuervertrag #0",
-            "background_color": "#ff00ff",
-            "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-            "animation_url": "https://lh3.googleusercontent.com/td6s9xNa-nq8wQZT3GxovsOPLHIaLsrv7nr54jNUXKejDQQhTiLEGbTRSD1l7AbUaTsi-VpYCfG8-H_mf1sgcbf0OX1AHcEpUcuw8Q=s0",
-            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.allmystery.de%2Fi%2Ftpy6l2jgoetxr_1a4ca34e502bc94c53bfac867b926838.gif&f=1&nofb=1",
-            "attributes": [
-                {
-                    "trait_type": "Vertrag",
-                    "value": "Standart"
-                },
-                {
-                    "trait_type": "Erweiterung",
-                    "value": "0"
-                },
-                {
-                    "trait_type": "Ergänzung",
-                    "value": "0"
-                }
-            ]
+          "id": 4,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #4",
+          "background_color": "#ff00ff",
+          "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
+          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "4"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "2"
+            }
+          ]
+        },
+        
+         {
+          "id": 5,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #5",
+          "background_color": "#ff00ff",
+          "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
+          "animation_url":"ipfs://QmdXoQ2R4TUcvaGtzNySsn8FqJiNqTC3S8uDSnUKXkNh5R?tokenId=0",
+          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "5"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "1"
+            }
+          ]
         },
         
         {
-            "id": 5,
-            "description": "Dieser Vertrag regeld etwas.",
-            "name": "Ganz Neuervertrag #0",
-            "background_color": "#ff00ff",
-            "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-            "animation_url": "https://lh3.googleusercontent.com/td6s9xNa-nq8wQZT3GxovsOPLHIaLsrv7nr54jNUXKejDQQhTiLEGbTRSD1l7AbUaTsi-VpYCfG8-H_mf1sgcbf0OX1AHcEpUcuw8Q=s0",
-            "image": "https://twemoji.maxcdn.com/svg/1f198.svg",
-            "attributes": [
-                {
-                    "trait_type": "Vertrag",
-                    "value": "Standart"
-                },
-                {
-                    "trait_type": "Erweiterung",
-                    "value": "0"
-                },
-                {
-                    "trait_type": "Ergänzung",
-                    "value": "0"
-                }
-            ]
-        }
-    ]
+          "id": 6,
+          "description": "Dieser Vertrag regeld etwas.",
+          "name": "Königsvertrag #6",
+          "background_color": "#ff00ff",
+          "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
+          "animation_url":"ipfs://QmdXoQ2R4TUcvaGtzNySsn8FqJiNqTC3S8uDSnUKXkNh5R?tokenId=0",
+          "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+          "attributes": [
+            {
+              "trait_type": "Vertrag",
+              "value": "Standart"
+            },
+            {
+              "trait_type": "Erweiterung",
+              "value": "5"
+            },
+            {
+              "trait_type": "Ergänzung",
+              "value": "1"
+            }
+          ]
+        },
+        
+        
+        {
+  "description": "Collection of Cat faces generated with P5.js & Scribble on the fly. The script is hosted on IPFS and each Cat is generated from one source.",
+  "tokenID": 7,
+  "name": "Blockchain Kitties #7",
+  "image": "ipfs://QmUUBJLhc3SrnXZdA3gdqXwEMr2htr9B2tzguL9M1w8Fyc/0.jpeg",
+  "animation_url": "ipfs://QmdXoQ2R4TUcvaGtzNySsn8FqJiNqTC3S8uDSnUKXkNh5R?tokenId=0",
+  "attributes": [
+    {
+      "trait_type": "Eyes",
+      "value": "Sleeping Beauty"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Ear Bow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Whiskers",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Bow",
+      "value": "No"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Top"
+    },
+    {
+      "trait_type": "Background",
+      "value": "#D35D6E"
+    }
+  ]
+}
+        
+        
+   ]
 }
