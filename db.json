@@ -1,8 +1,8 @@
 {
   "tokens": [
     {
-      "id": 27,
-      "name": "Dave Starbelly 26",
+      "id": 28,
+      "name": "Dave Starbelly 28",
       "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
       "external_url": "https://example.com/?token_id=3",
       "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png",
@@ -10,32 +10,32 @@
       "background_color": null,
       "attributes": [
         {
-          "trait_type": "base",
-          "value": "nummer1"
+          "trait_type": "Firma",
+          "value": "XYZ"
         },
         {
-          "trait_type": "eyes",
-          "value": "nummer2"
+          "trait_type": "Gewerbe",
+          "value": "SOundSo"
         },
         {
-          "trait_type": "mouth",
-          "value": "munner3"
+          "trait_type": "Gründung",
+          "value": "1980"
         },
         {
-          "trait_type": "level",
+          "trait_type": "Mitarbeiter",
           "value": 99
         },
         {
-          "trait_type": "stamina",
+          "trait_type": "BIP",
           "value": 150.5
         },
+    {
+      "trait_type": "Personality", 
+      "value": "Sad"
+    }, 
         {
-          "trait_type": "personality",
-          "value": "boring"
-        },
-        {
-          "display_type": "boost_number",
-          "trait_type": "aqua_power",
+          "display_type": "service_number",
+          "trait_type": "fire_power",
           "value": 200
         },
         {
@@ -45,8 +45,8 @@
         },
         {
           "display_type": "number",
-          "trait_type": "generation",
-          "value": 22
+          "trait_type": "Version",
+          "value": 1
         }
       ]
     }
