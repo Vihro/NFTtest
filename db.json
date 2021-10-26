@@ -1,172 +1,27 @@
 {
     "tokens": [
-        
-        
-        
         {
-            "id": 7,
-  "description": "Collection of Cat faces generated with P5.js & Scribble on the fly. The script is hosted on IPFS and each Cat is generated from one source.",
-  "name": "Blockchain Kitties #7",
+            "id": 12,
+            "description": "Dieser Vertrag regeld etwas.",
+            "name": "Ganz Neuervertrag #12",
             "background_color": "#ff00ff",
             "external_url": "https://www.help.gv.at/Portal.Node/hlpd/public/resources/documents/meldez.pdf",
-            "animation_url": "ipfs://QmdXoQ2R4TUcvaGtzNySsn8FqJiNqTC3S8uDSnUKXkNh5R?tokenId=0",
-  "image": "ipfs://QmUUBJLhc3SrnXZdA3gdqXwEMr2htr9B2tzguL9M1w8Fyc/0.jpeg",
-  "attributes": [
-    {
-      "trait_type": "Eyes",
-      "value": "Sleeping Beauty"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Green Ear Bow"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "Common"
-    },
-    {
-      "trait_type": "Whiskers",
-      "value": "Cat"
-    },
-    {
-      "trait_type": "Nose",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Bow",
-      "value": "No"
-    },
-    {
-      "trait_type": "Body",
-      "value": "Top"
-    },
-    {
-      "trait_type": "Background",
-      "value": "#D35D6E"
-    }
-  ]
-},
-        
-        {
-           "id": 8,
-           "description": "Dieser Vertrag regeld etwas.",
-           "name": "Ganz Neuervertrag #8",
-           "background_color": "#ff00ff",
-           "image": "https://ipfs.io/ipfs/QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ?filename=bild01.jpeg",
-           "external_url": "https://ipfs.io/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse?filename=pdf01.pdf",
-           "animation_url":"https://ipfs.io/ipfs/QmZJQrchqpUDUWi6QJqySvYecFVN6x5TEKME4D7n65NYnK?filename=html01.html",
-           "attributes": [
-             {
-               "trait_type": "Vertrag",
-               "value": "Standart"
-             },
-             {
-               "trait_type": "Erweiterung",
-               "value": "0"
-             },
-             {
-               "trait_type": "Ergänzung",
-               "value": "0"
-             }
-           ]
-         },
-        
-        {
-           "id": 9,
-           "description": "Dieser Vertrag regeld etwas.",
-           "name": "Ganz Neuervertrag #9",
-           "background_color": "#ff00ff",
-           "image": "ipfs://QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ?filename=bild01.jpeg",
-           "external_url": "ipfs://QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse?filename=pdf01.pdf",
-           "animation_url":"ipfs://QmZJQrchqpUDUWi6QJqySvYecFVN6x5TEKME4D7n65NYnK?filename=html01.html",
-           "attributes": [
-             {
-               "trait_type": "Vertrag",
-               "value": "Standart"
-             },
-             {
-               "trait_type": "Erweiterung",
-               "value": "9"
-             },
-             {
-               "trait_type": "Ergänzung",
-               "value": "0"
-             }
-           ]
-         },
-        
-         {
-           "id": 10,
-           "description": "Dieser Vertrag regeld etwas.",
-           "name": "Ganzer käse #10",
-           "background_color": "#ff00ff",
-           "image": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc?filename=owl.gif",
-           "external_url": "ipfs://QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse?filename=pdf01.pdf",
-           "animation_url":"ipfs://QmYRFXCLAGNo3dRv5wKk8szMG7VssPyLkxEbgYcL8HvL9a?filename=poop.gif",
-           "attributes": [
-             {
-               "trait_type": "Vertrag",
-               "value": "Standart"
-             },
-             {
-               "trait_type": "Erweiterung",
-               "value": "10"
-             },
-             {
-               "trait_type": "Ergänzung",
-               "value": "1"
-             }
-           ]
-         },
-        
-        {
-           "id": 11,
-           "description": "Dieser Vertrag regeld etwas.",
-           "name": "Ganzer käse #11",
-           "background_color": "#ff00ff",
-           "image": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc",
-           "external_url": "ipfs://QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
-           "animation_url":"ipfs://QmYRFXCLAGNo3dRv5wKk8szMG7VssPyLkxEbgYcL8HvL9a",
-           "attributes": [
-             {
-               "trait_type": "Vertrag",
-               "value": "Standart"
-             },
-             {
-               "trait_type": "Erweiterung",
-               "value": "11"
-             },
-             {
-               "trait_type": "Ergänzung",
-               "value": "11"
-             }
-           ]
-         },
-        
-         {
-           "id": 12,
-           "description": "Dieser Vertrag regeld etwas.",
-           "name": "Ganzer käse #12",
-           "background_color": "#ff00ff",
-           "image": "https://github.com/Vihro/NFTtest/blob/main/iu-5.jpeg?raw=true",
-           "external_url": "https://github.com/Vihro/NFTtest/blob/f28517c39a9929ae566d252aecbb2c6754311e7a/meldez.pdf",
-           "animation_url":"https://github.com/Vihro/NFTtest/blob/main/Download.gif?raw=true",
-           "attributes": [
-             {
-               "trait_type": "Vertrag",
-               "value": "Standart"
-             },
-             {
-               "trait_type": "Erweiterung",
-               "value": "12"
-             },
-             {
-               "trait_type": "Ergänzung",
-               "value": "12"
-             }
-           ]
-         }
-        
-        
-   ]
+            "animation_url": "http://www.kevs3d.co.uk/dev/js1kspring/",
+            "image": "https://twemoji.maxcdn.com/svg/1f1ec.svg",
+            "attributes": [
+                {
+                    "trait_type": "Vertrag",
+                    "value": "Standart"
+                },
+                {
+                    "trait_type": "Erweiterung",
+                    "value": "12"
+                },
+                {
+                    "trait_type": "Ergänzung",
+                    "value": "0"
+                }
+            ]
+        }
+    ]
 }
