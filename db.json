@@ -45,8 +45,8 @@
         },
         {
           "display_type": "number",
-          "trait_type": "Generation",
-          "value": 2
+          "trait_type": "Version",
+          "value": 1
         }
       ]
     }
