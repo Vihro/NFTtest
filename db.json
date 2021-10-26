@@ -8,19 +8,11 @@
             "image": "https://gateway.pinata.cloud/ipfs/QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ", 
             "animation_url": null,
             "external_url": "https://gateway.pinata.cloud/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
-             "properties": {
-        "base": "starfish",
-        "rich_property": {
-            "name": "eyes",
-            "value": "big",
-            "display_value": "Big",
-        }
-                ...
-    }
+       
             "attributes": [
-             {
-    "value": "Happy"
-  }
+                  {
+                    "value": "Happy"
+                  }
                 {
                   "trait_type": "Base", 
                   "value": "Starfish"
