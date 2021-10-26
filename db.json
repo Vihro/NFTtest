@@ -234,7 +234,7 @@
         {
            "id": 9,
            "description": "Dieser Vertrag regeld etwas.",
-           "name": "Ganz Neuervertrag #8",
+           "name": "Ganz Neuervertrag #9",
            "background_color": "#ff00ff",
            "image": "ipfs://QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ?filename=bild01.jpeg",
            "external_url": "ipfs://QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse?filename=pdf01.pdf",
@@ -246,7 +246,7 @@
              },
              {
                "trait_type": "Erweiterung",
-               "value": "0"
+               "value": "9"
              },
              {
                "trait_type": "Ergänzung",
