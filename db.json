@@ -2,10 +2,10 @@
   "tokens": [
     {
       "id": 24,
+      "name": "Dave Starbelly 24",
       "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
       "external_url": "https://example.com/?token_id=3",
       "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png",
-      "name": "Dave Starbelly",
       "animation_url": null,
       "background_color": null,
       "attributes": [
