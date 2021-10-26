@@ -5,7 +5,7 @@
       "name": "Dave Starbelly 28",
       "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
       "external_url": "https://example.com/?token_id=3",
-      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/creature/3.png",
+      "image": "ipfs://QmYRFXCLAGNo3dRv5wKk8szMG7VssPyLkxEbgYcL8HvL9a",
       "animation_url": null,
       "background_color": null,
       "attributes": [
