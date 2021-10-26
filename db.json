@@ -1,33 +1,62 @@
 {
     "tokens": [
         {
-            "id": 17,
-            "description": "Dieser Vertrag regeld etwas.",
-            "name": "Neuervertrag #17",
-            "background_color": "#ff00ff",
+            "id": 18,
+            "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+            "name": "Dave Starbelly",
             "background_color": null,
-      "image_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
+      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
       "image_preview_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
       "image_thumbnail_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
-      "image_original_url": "https://azimuth.network/erc721/369690035.svg",
-      "animation_url": "https://gateway.pinata.cloud/ipfs/QmYRFXCLAGNo3dRv5wKk8szMG7VssPyLkxEbgYcL8HvL9a",
-      "animation_original_url": null,
-            "external_link": "",
+      "animation_url": null,
+            "external_link": "https://gateway.pinata.cloud/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F",
            "external_url": "https://gateway.pinata.cloud/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
+  "attributes": [ ... ], 
+            
+            
             "attributes": [
                 {
-                    "trait_type": "Vertrag",
-                    "value": "Standart"
-                },
-                {
-                    "trait_type": "Erweiterung",
-                    "value": "17"
-                },
-                {
-                    "trait_type": "Ergänzung",
-                    "value": "17"
-                }
+      "trait_type": "Base", 
+      "value": "Starfish"
+    }, 
+    {
+      "trait_type": "Eyes", 
+      "value": "Big"
+    }, 
+    {
+      "trait_type": "Mouth", 
+      "value": "Surprised"
+    }, 
+    {
+      "trait_type": "Level", 
+      "value": 5
+    }, 
+    {
+      "trait_type": "Stamina", 
+      "value": 1.4
+    }, 
+    {
+      "trait_type": "Personality", 
+      "value": "Sad"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Aqua Power", 
+      "value": 40
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Stamina Increase", 
+      "value": 10
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
+    }
             ]
         }
     ]
 }
+
+
