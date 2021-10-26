@@ -164,8 +164,8 @@
         
         
         {
+            "id": 7,
   "description": "Collection of Cat faces generated with P5.js & Scribble on the fly. The script is hosted on IPFS and each Cat is generated from one source.",
-  "id": 7,
   "name": "Blockchain Kitties #7",
   "image": "ipfs://QmUUBJLhc3SrnXZdA3gdqXwEMr2htr9B2tzguL9M1w8Fyc/0.jpeg",
   "animation_url": "ipfs://QmdXoQ2R4TUcvaGtzNySsn8FqJiNqTC3S8uDSnUKXkNh5R?tokenId=0",
