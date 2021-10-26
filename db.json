@@ -1,15 +1,13 @@
 {
     "tokens": [
         {
-            "id": 22,
+            "id": 23,
             "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
             "name": "Dave Starbelly",
             "background_color": null,
-      "image": "https://ipfs.io/ipfs/QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ?filename=bild01.jpeg", 
-      "image_preview_url": "https://ipfs.io/ipfs/QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc?filename=owl.gif",
-      "image_thumbnail_url": "https://ipfs.io/ipfs/QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc?filename=owl.gif",
-      "animation_url": null,
-           "external_url": "https://gateway.pinata.cloud/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
+            "image": "https://gateway.pinata.cloud/ipfs/QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ", 
+            "animation_url": null,
+            "external_url": "https://gateway.pinata.cloud/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
             "attributes": [
                 {
                   "trait_type": "Base", 
