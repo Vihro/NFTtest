@@ -1,9 +1,9 @@
 {
     "tokens": [
         {
-            "id": 15,
+            "id": 16,
             "description": "Dieser Vertrag regeld etwas.",
-            "name": "Neuervertrag #15",
+            "name": "Neuervertrag #16",
             "background_color": "#ff00ff",
             "background_color": null,
       "image_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
@@ -21,11 +21,11 @@
                 },
                 {
                     "trait_type": "Erweiterung",
-                    "value": "15"
+                    "value": "16"
                 },
                 {
                     "trait_type": "Ergänzung",
-                    "value": "15"
+                    "value": "16"
                 }
             ]
         }
