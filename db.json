@@ -5,9 +5,15 @@
             "description": "Dieser Vertrag regeld etwas.",
             "name": "Neuervertrag #15",
             "background_color": "#ff00ff",
-            "image": "https://gateway.pinata.cloud/ipfs/QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ",
+            "background_color": null,
+      "image_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
+      "image_preview_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
+      "image_thumbnail_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
+      "image_original_url": "https://azimuth.network/erc721/369690035.svg",
+      "animation_url": null,
+      "animation_original_url": null,
+            "external_link": "",
            "external_url": "https://gateway.pinata.cloud/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
-           "animation_url":"https://gateway.pinata.cloud/ipfs/QmYRFXCLAGNo3dRv5wKk8szMG7VssPyLkxEbgYcL8HvL9a",
             "attributes": [
                 {
                     "trait_type": "Vertrag",
