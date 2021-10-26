@@ -253,6 +253,30 @@
                "value": "0"
              }
            ]
+         },
+        
+         {
+           "id": 10,
+           "description": "Dieser Vertrag regeld etwas.",
+           "name": "Ganzer käse #10",
+           "background_color": "#ff00ff",
+           "image": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc?filename=owl.gif",
+           "external_url": "ipfs://QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse?filename=pdf01.pdf",
+           "animation_url":"ipfs://QmYRFXCLAGNo3dRv5wKk8szMG7VssPyLkxEbgYcL8HvL9a?filename=poop.gif",
+           "attributes": [
+             {
+               "trait_type": "Vertrag",
+               "value": "Standart"
+             },
+             {
+               "trait_type": "Erweiterung",
+               "value": "9"
+             },
+             {
+               "trait_type": "Ergänzung",
+               "value": "0"
+             }
+           ]
          }
         
         
