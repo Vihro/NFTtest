@@ -9,6 +9,9 @@
             "animation_url": null,
             "external_url": "https://gateway.pinata.cloud/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
             "attributes": [
+                                {
+                    "value": "Happy"
+                  }
                 {
                   "trait_type": "Base", 
                   "value": "Starfish"
