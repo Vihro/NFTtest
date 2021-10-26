@@ -10,16 +10,16 @@
       "background_color": null,
       "attributes": [
         {
-          "trait_type": "Grund",
-          "value": "Feuer"
+          "trait_type": "Firma",
+          "value": "XYZ"
         },
         {
-          "trait_type": "Eyes",
-          "value": "Big"
+          "trait_type": "Gewerbe",
+          "value": "So und So"
         },
         {
-          "trait_type": "Mouth",
-          "value": "Surprised"
+          "trait_type": "Gruendung",
+          "value": "1980"
         },
         {
           "trait_type": "Level",
@@ -30,8 +30,8 @@
           "value": 1.4
         },
         {
-          "trait_type": "Personality",
-          "value": "Sad"
+          "trait_type": "Mitarbeiter",
+          "value": "99"
         },
         {
           "display_type": "boost_number",
