@@ -1,16 +1,16 @@
 {
     "tokens": [
         {
-            "id": 16,
+            "id": 17,
             "description": "Dieser Vertrag regeld etwas.",
-            "name": "Neuervertrag #16",
+            "name": "Neuervertrag #17",
             "background_color": "#ff00ff",
             "background_color": null,
       "image_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
       "image_preview_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
       "image_thumbnail_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
       "image_original_url": "https://azimuth.network/erc721/369690035.svg",
-      "animation_url": null,
+      "animation_url": "https://gateway.pinata.cloud/ipfs/QmYRFXCLAGNo3dRv5wKk8szMG7VssPyLkxEbgYcL8HvL9a",
       "animation_original_url": null,
             "external_link": "",
            "external_url": "https://gateway.pinata.cloud/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
@@ -21,11 +21,11 @@
                 },
                 {
                     "trait_type": "Erweiterung",
-                    "value": "16"
+                    "value": "17"
                 },
                 {
                     "trait_type": "Ergänzung",
-                    "value": "16"
+                    "value": "17"
                 }
             ]
         }
