@@ -3,7 +3,7 @@
         {
             "id": 12,
             "description": "Dieser Vertrag regeld etwas.",
-            "name": "Neuervertrag #12",
+            "name": "Neuervertrag #13",
             "background_color": "#ff00ff",
             "image": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc",
            "external_url": "ipfs://QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
@@ -15,11 +15,11 @@
                 },
                 {
                     "trait_type": "Erweiterung",
-                    "value": "12"
+                    "value": "13"
                 },
                 {
                     "trait_type": "Ergänzung",
-                    "value": "0"
+                    "value": "13"
                 }
             ]
         }
