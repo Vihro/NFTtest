@@ -5,9 +5,9 @@
             "description": "Dieser Vertrag regeld etwas.",
             "name": "Ganz Neuervertrag #12",
             "background_color": "#ff00ff",
-            "image": "https://github.com/Vihro/NFTtest/blob/main/iu-5.jpeg?raw=true",
-           "external_url": "https://github.com/Vihro/NFTtest/blob/f28517c39a9929ae566d252aecbb2c6754311e7a/meldez.pdf",
-           "animation_url":"https://github.com/Vihro/NFTtest/blob/main/Download.gif?raw=true",
+            "image": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc",
+           "external_url": "ipfs://QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
+           "animation_url":"ipfs://QmYRFXCLAGNo3dRv5wKk8szMG7VssPyLkxEbgYcL8HvL9a",
             "attributes": [
                 {
                     "trait_type": "Vertrag",
