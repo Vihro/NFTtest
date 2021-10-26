@@ -2,39 +2,43 @@
   "tokens": [
     {
       "id": 28,
-      "name": "Dave Starbelly 28",
-      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+      "name": "Die verrückte Eule 28",
+      "description": "Eine Eule, mit der man sich frühmorgens nicht anlegen sollte :D",
       "external_url": "https://example.com/?token_id=3",
       "image": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc",
       "animation_url": null,
       "background_color": null,
       "attributes": [
         {
-          "trait_type": "Firma",
-          "value": "XYZ"
+          "trait_type": "Gatung",
+          "value": "verrückter Kauz"
         },
         {
-          "trait_type": "Gewerbe",
-          "value": "So und So"
+          "trait_type": "Befinden",
+          "value": "Immer genervt"
         },
         {
-          "trait_type": "Branche",
-          "value": "Baugewerbe"
+          "trait_type": "Job",
+          "value": "Beobachten"
         },
         {
-          "trait_type": "Gruendung",
-          "value": "1980"
+          "trait_type": "Geboren",
+          "value": "Geheimnisvoll"
         },
         
         {
-          "trait_type": "Mitarbeiter",
-          "value": "99"
+          "trait_type": "Beschwörungsstufe",
+          "value": "Generation0"
+        },
+        {
+          "trait_type": "Beschworene Mitarbeiter",
+          "value": "17"
         },
         
         {
           "display_type": "number",
-          "trait_type": "Logo version",
-          "value": 1
+          "trait_type": "Version",
+          "value": 1.0.0
         }
       ]
     }
