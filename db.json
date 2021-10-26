@@ -1,13 +1,13 @@
 {
     "tokens": [
         {
-            "id": 20,
+            "id": 21,
             "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
             "name": "Dave Starbelly",
             "background_color": null,
-      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-      "image_preview_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
-      "image_thumbnail_url": "https://storage.opensea.io/files/13feb7324c6162c6857e212efeb67dd0.svg",
+      "image": "ipfs://QmchjYogeJYXjjGg7UsgaAaF42KmQYNkuFfMWDWARQJxxJ", 
+      "image_preview_url": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc",
+      "image_thumbnail_url": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc",
       "animation_url": null,
            "external_url": "https://gateway.pinata.cloud/ipfs/QmfXKDbfj7jTwa9u8mdKUhc5F6P8oaFo5tCD3X4ZfaXGse",
             "attributes": [
