@@ -59,35 +59,35 @@
     {
       "id": 1,
       "name": "Der beste Detektiv",
-      "description": "Eine Eule, mit der man sich frühmorgens nicht anlegen sollte :D",
+      "description": "Antikörper sind nach Ansicht der Experten Wurst, und Ärzte sollten bestraft werden, die den Antikörpertest am Patienten vor der Impfung durchführen. <br> ABER: 'Boostern muss sein'! <br> Es läuft alles auf die Fähigkeit hinaus, ALLES zu akzeptieren!",
       "external_url": "https://example.com/?token_id=3",
-      "image": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc",
+      "image": "ipfs://QmfQgdKipceNt8Dg87YjysU9CgT9Cz4gwPD9VFBTu3vVhn",
       "animation_url": null,
       "background_color": null,
       "attributes": [
         {
-          "trait_type": "Gatung",
-          "value": "verrückter Kauz"
-        },
-        {
-          "trait_type": "Befinden",
-          "value": "Immer genervt"
-        },
-        {
-          "trait_type": "Job",
-          "value": "Beobachten"
+          "trait_type": "Name",
+          "value": "Wolfgang Robert Mückstein"
         },
         {
           "trait_type": "Geboren",
-          "value": "Geheimnisvoll"
+          "value": "5.Juni.1974 als Wiener Arschloch"
         },
         {
-          "trait_type": "Beschwoerungsstufe",
-          "value": "Generation0"
+          "trait_type": "Job",
+          "value": "Unnützer Artzt, daher auch unfähiger Politiker"
         },
         {
-          "trait_type": "Beschworene Mitarbeiter",
-          "value": "17"
+          "trait_type": "Partei",
+          "value": "Grünen (Was sonst!)"
+        },
+        {
+          "trait_type": "Beschäftigungsstatus",
+          "value": "Definitiv sehr befristet"
+        },
+        {
+          "trait_type": "Arbeitszeiten",
+          "value": "Weis man nicht genau"
         },
         {
           "display_type": "boost_percentage",
