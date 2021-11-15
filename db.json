@@ -1,7 +1,7 @@
 {
   "tokens": [
     {
-      "id": 28,
+      "id": 0,
       "name": "Der beste Detektiv",
       "description": "Eine Eule, mit der man sich frühmorgens nicht anlegen sollte :D",
       "external_url": "https://example.com/?token_id=3",
@@ -34,20 +34,76 @@
           "value": "17"
         },
         {
-      "display_type": "boost_percentage", 
-      "trait_type": "Überzeugungspower", 
-      "value": 92
-    }, 
+          "display_type": "boost_percentage",
+          "trait_type": "Überzeugungspower",
+          "value": 92
+        },
         {
-      "display_type": "boost_number", 
-      "trait_type": "Erfolgreiche Observationen", 
-      "value": 67
-    }, 
-         {
-      "display_type": "boost_number", 
-      "trait_type": "Lebensbedrohliche Auftraege", 
-      "value": 67
-    }, 
+          "display_type": "boost_number",
+          "trait_type": "Erfolgreiche Observationen",
+          "value": 67
+        },
+        {
+          "display_type": "boost_number",
+          "trait_type": "Lebensbedrohliche Auftraege",
+          "value": 67
+        },
+        {
+          "display_type": "number",
+          "trait_type": "Version",
+          "value": 1
+        }
+      ]
+    },
+    
+    {
+      "id": 1,
+      "name": "Der beste Detektiv",
+      "description": "Eine Eule, mit der man sich frühmorgens nicht anlegen sollte :D",
+      "external_url": "https://example.com/?token_id=3",
+      "image": "ipfs://QmTv8a8yyLxBFhx58aPWq6Jbq8w5KM3Vv7isk42NjTcUKc",
+      "animation_url": null,
+      "background_color": null,
+      "attributes": [
+        {
+          "trait_type": "Gatung",
+          "value": "verrückter Kauz"
+        },
+        {
+          "trait_type": "Befinden",
+          "value": "Immer genervt"
+        },
+        {
+          "trait_type": "Job",
+          "value": "Beobachten"
+        },
+        {
+          "trait_type": "Geboren",
+          "value": "Geheimnisvoll"
+        },
+        {
+          "trait_type": "Beschwoerungsstufe",
+          "value": "Generation0"
+        },
+        {
+          "trait_type": "Beschworene Mitarbeiter",
+          "value": "17"
+        },
+        {
+          "display_type": "boost_percentage",
+          "trait_type": "Überzeugungspower",
+          "value": 92
+        },
+        {
+          "display_type": "boost_number",
+          "trait_type": "Erfolgreiche Observationen",
+          "value": 67
+        },
+        {
+          "display_type": "boost_number",
+          "trait_type": "Lebensbedrohliche Auftraege",
+          "value": 67
+        },
         {
           "display_type": "number",
           "trait_type": "Version",
